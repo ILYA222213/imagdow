@@ -1,0 +1,14 @@
+C:\Users\ilruz\source\repos\image\image\bin\Debug\net8.0\image.exe
+C:\Users\ilruz\source\repos\image\image\bin\Debug\net8.0\image.deps.json
+C:\Users\ilruz\source\repos\image\image\bin\Debug\net8.0\image.runtimeconfig.json
+C:\Users\ilruz\source\repos\image\image\bin\Debug\net8.0\image.dll
+C:\Users\ilruz\source\repos\image\image\bin\Debug\net8.0\image.pdb
+C:\Users\ilruz\source\repos\image\image\obj\Debug\net8.0\image.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilruz\source\repos\image\image\obj\Debug\net8.0\image.AssemblyInfoInputs.cache
+C:\Users\ilruz\source\repos\image\image\obj\Debug\net8.0\image.AssemblyInfo.cs
+C:\Users\ilruz\source\repos\image\image\obj\Debug\net8.0\image.csproj.CoreCompileInputs.cache
+C:\Users\ilruz\source\repos\image\image\obj\Debug\net8.0\image.dll
+C:\Users\ilruz\source\repos\image\image\obj\Debug\net8.0\refint\image.dll
+C:\Users\ilruz\source\repos\image\image\obj\Debug\net8.0\image.pdb
+C:\Users\ilruz\source\repos\image\image\obj\Debug\net8.0\image.genruntimeconfig.cache
+C:\Users\ilruz\source\repos\image\image\obj\Debug\net8.0\ref\image.dll
